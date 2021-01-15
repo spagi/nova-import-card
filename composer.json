@@ -1,5 +1,5 @@
 {
-    "name": "spagi/sparclex/nova-import-card",
+    "name": "spagi-sparclex/nova-import-card",
     "description": "A card which lets you batch import resources",
     "keywords": [
         "laravel",
